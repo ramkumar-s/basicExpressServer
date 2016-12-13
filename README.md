@@ -8,7 +8,8 @@ npm install
 ```
 
 Set configuration parameters in `config.js`.
-Copy webapp to `public` folder
+
+Copy webapp to `public` folder.
 
 Start application with:
 ```
